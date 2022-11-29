@@ -4,6 +4,7 @@
 * Ele retorna uma string com o hash da string passada no primeiro parâmetro.
 * No segundo parâmetro, pode ser MD5, SHA-1 ou SHA-256.
 */
+package criptsenha;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
